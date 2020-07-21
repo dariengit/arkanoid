@@ -1,5 +1,6 @@
 """
 The template of the main script of the machine learning process
+add message
 """
 
 class MLPlay:
